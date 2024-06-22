@@ -4,8 +4,16 @@
     box-sizing: border-box;
 }
 
-body {
+:root {
     font-family: 'Alice', sans-serif;
+}
+
+body {
+    
+    
+    background-image: url(img/bg-image.png);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 #page {
