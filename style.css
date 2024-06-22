@@ -63,3 +63,13 @@ p + p {
 ul li {
     margin: 0 0 10px 25px;
 }
+
+footer {
+    color: #F0E8C2;
+    text-align: center;
+    padding-bottom: 48px;
+}
+
+footer img {
+    vertical-align: middle;
+}
